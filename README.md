@@ -1,4 +1,4 @@
-# App Admin Dashboard
+# App - Admin Dashboard
 
 ## Dados gerais
 
