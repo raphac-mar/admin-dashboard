@@ -6,7 +6,7 @@ import { RecentSales } from './components/recent-sales'
 export default function Home() {
   return (
     <>
-       <h2 className="text-3xl font-bold tracking-tight my-4">Dashboard 24</h2>
+       <h2 className="text-3xl font-bold tracking-tight my-4">Dashboard 25</h2>
 
       <div className="flex-1 space-y-4">
         <div className="grid gap-4 md:grid-cols-2 lg:grid-cols-4">
